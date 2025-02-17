@@ -1,0 +1,10 @@
+{
+    "name": "idriss/package_test",
+    "description": "This package should not be used; it is for testing purposes only.",
+    "authors": [
+        {
+            "name": "idriss"
+        }
+    ],
+    "require": {}
+}
